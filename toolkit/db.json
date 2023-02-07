@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "username": "dfdfd",
+      "place": "dfdf",
+      "id": 1,
+      "requestId": "8YOslzNMSTorgrJ5ozYZk",
+      "signal": {}
+    },
+    {
+      "username": "tttttttt",
+      "place": "t",
+      "id": 2,
+      "requestId": "nLpyT4_patHBxr0sam9X9",
+      "signal": {}
+    },
+    {
+      "username": "o",
+      "place": "oo",
+      "id": 3
+    },
+    {
+      "username": "hjh",
+      "place": "hjhj",
+      "id": 4
+    },
+    {
+      "username": "jgjgfj",
+      "place": "hjhj",
+      "id": 5
+    },
+    {
+      "username": "u",
+      "place": "u",
+      "id": 6,
+      "requestId": "hcU7noUro2JV74yR4CONn",
+      "signal": {}
+    },
+    {
+      "username": "HU",
+      "place": "hjhj",
+      "id": 7
+    },
+    {
+      "DATE": "16-01-2023",
+      "username": "FFF",
+      "place": "FF",
+      "id": 8
+    },
+    {
+      "DATE": "16-01-2023 02:50",
+      "username": "eeeeee",
+      "place": "e",
+      "id": 9
+    }
+  ]
+}
