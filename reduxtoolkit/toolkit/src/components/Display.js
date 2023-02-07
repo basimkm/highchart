@@ -25,7 +25,7 @@ const Display = () => {
   });
 
   console.log('t', allVal);
-
+  console.log('hi VP');
   return (
     <div>
       <div className="text-danger">{values}</div>
